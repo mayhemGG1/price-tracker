@@ -50,7 +50,7 @@ price-tracker/
 
 1. Клонуй репозиторій:
 ```bash
-git clone https://github.com/mayhenGG1/price-tracker.git
+git clone https://github.com/mayhemGG1/price-tracker.git
 cd price-tracker
 ```
 
